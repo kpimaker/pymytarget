@@ -1,0 +1,6 @@
+clients:
+  center-b2b-vats: {access_token: !!python/unicode 'Rj..0U',
+    expires_in: !!timestamp '2017-10-31 15:15:13.098000', login: tR...4t@agency_client,
+    refresh_token: Ya...qj}
+  "\u04122\u0421 \u0420\u043E\u0441\u0442\u0435\u043B\u0435\u043A\u043E\u043C": {
+    access_token: '', expires_in: null, login: l3...44@agency_client, refresh_token: ''}
